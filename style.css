@@ -1,0 +1,41 @@
+p {
+  text-shadow: 5px 5px 0px red;
+  text-decoration: dotted black underline ;
+
+  text-decoration-line: overline;
+  text-decoration-color: brown;
+  text-decoration-style:dashed;
+}
+
+.snow01{
+  color: navy;
+  font-weight: bold;
+}
+.snow{
+  list-style-image: url(images/snow.png);
+  color: blue;
+}
+
+.spring01{
+  color: green;
+  font-weight: bold;
+}
+.spring{
+   list-style-image: url(images/leaf.png);
+   font-weight: bold;
+}
+.summer01{
+  color: #F0E68C	;
+  font-weight: bold;
+
+}
+.summer{
+  list-style-image: url(images/sun.png);
+}
+.autumn01 {
+  color: orange;
+  font-weight: bold;
+}
+.autumn {
+  list-style-image: url(images/rain.png);
+}
